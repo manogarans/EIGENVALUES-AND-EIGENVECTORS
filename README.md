@@ -28,6 +28,6 @@ eigenvalue,eigenvector=eigenvalue_eigenvectors(matrix)
 print("Eigen values are",eigenvalue,"and Eigen Vectors are",eigenvector)
 ```
 ## Output:
-![output](/eigen.png)
+![output](/eigen.jpg)
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
